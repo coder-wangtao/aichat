@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: AIChat
+  ai:
+    ollama:
+      chat:
+        enable: true
+        options:
+          model: qwen
